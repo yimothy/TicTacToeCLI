@@ -1,0 +1,26 @@
+{
+  "name": "tictactoecli",
+  "version": "1.0.0",
+  "description": "CLI tic tac toe app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yimothy/TicTacToeCLI.git"
+  },
+  "keywords": [
+    "tictactoe",
+    "cli"
+  ],
+  "author": "tim yin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yimothy/TicTacToeCLI/issues"
+  },
+  "homepage": "https://github.com/yimothy/TicTacToeCLI#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  }
+}
